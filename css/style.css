@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient( to right, #e3b3c6a6, #8e499ca6);
+}
+.navbar {
+    margin-bottom: 5px;
+}
+.quem-somos{
+    background-color: rgba(116, 116, 116, 0.685);
+    margin-bottom: 5px;
+    text-align: justify;
+    font-size: 60px;
+}
+.quem-somos > h2{
+    color: #fcfcfc;
+    font-size: 60px;
+
+}
+.margin{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.contato{
+    text-align: justify;
+    font-size: 60px;
+    border-radius: 20px;
+}
+
+.contato > h2{
+    color: rgba(1, 1, 85, 0.849);
+    font-size: 60px;
+    margin-top: 25px;
+    
+}
+
+.bg-footer{
+    background-color: rgba(0, 0, 0, 0.63);
+    color: blanchedalmond;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+}
