@@ -4,15 +4,25 @@ body{
 .navbar {
     margin-bottom: 5px;
 }
-.quem-somos{
-    background-color: rgba(116, 116, 116, 0.685);
+.pedidos{
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     margin-bottom: 5px;
     text-align: justify;
     font-size: 60px;
 }
-.quem-somos > h2{
-    color: #fcfcfc;
+.pedidos > h2{
+    color: rgba(1, 1, 85, 0.849);
     font-size: 60px;
+    margin-top: 05px;
+
+}
+.fonth4{
+    color: rgba(1, 1, 85, 0.849);
+    font-size: 40px;
+    margin-top: -10px;
+    margin-bottom: 50px;
 
 }
 .margin{
@@ -32,10 +42,19 @@ body{
     margin-top: 25px;
     
 }
-
+.imgz{
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+.bg-footer > ul{
+    list-style: none;
+}
 .bg-footer{
-    background-color: rgba(0, 0, 0, 0.63);
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     color: blanchedalmond;
+    
     margin-bottom: 10px;
     padding-bottom: 15px;
 }
